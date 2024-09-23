@@ -40,5 +40,6 @@ Potential Features:
 
 - Design D2:
 ![D2](https://github.com/user-attachments/assets/25afdfee-5d70-4c59-b55f-f197c5abba28)
+![image](https://github.com/user-attachments/assets/fb0f1414-b488-454f-9c3f-ee7218073365)
 
 
