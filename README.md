@@ -1,7 +1,13 @@
 # Kalliope
 
-## Project Description
-This project involves developing an innovative application designed to enhance the research process by providing valuable insights and recommendations based on academic papers. The tool aims to streamline literature discovery and application, helping users efficiently navigate the vast research landscape.
+## Project Purpose
+This project aims to revolutionize the academic research landscape by providing an intelligent, user-centric tool for literature discovery and application. Unlike existing tools, our application not only identifies relevant research but also generates concise synopses for each paper, empowering users to quickly grasp essential insights and make well-informed decisions.
+
+## Project Goals
+Streamline Research Process: Enable researchers, students, and professionals to access and digest academic content efficiently through automatically generated synopses and relevant recommendations.
+Innovative Recommendation Engine: Facilitate literature discovery with features like Related Paper Suggestions and Reverse Recommendation, allowing users to find research based on specific queries.
+Collaboration and Sharing: Support collaborative research efforts by enabling users to save, share, and discuss collections of related papers, fostering a connected academic community.
+Increase Research Accessibility: Simplify complex academic literature through synopses, making knowledge more accessible across disciplines and expertise levels.
 
 Potential Features:
 - Research Paper Synopsis (NLP)
