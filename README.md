@@ -23,6 +23,7 @@ Potential Features:
 - Nhat Minh Phan: 
 
 ## Advisor
+- Prof. Fred Annexstein (annexsfs@ucmail.uc.edu)
 
 ## User Stories:
 - As a researcher, I want to quickly generate a synopsis of an academic paper, so that I can efficiently determine if the paper is relevant to my research.
