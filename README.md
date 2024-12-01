@@ -105,7 +105,7 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 ## Professional Biographies
 - [Huu Quang Nhat Nguyen](https://github.com/AIconic5001/Kalliope/blob/main/Project%20Documents/huuquangnhat_nguyen_professional_biography.md)
 - Du Quang Nguyen: 
-- Huy Phong Le:
+- [Huy Phong Le](https://github.com/Huy-Le2/Professional-Biography/blob/main/huy-le-self-assessment-essay.md)
 - Nhat Minh Phan:
 
 ## Budget:
