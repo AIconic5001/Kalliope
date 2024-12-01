@@ -80,14 +80,16 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 
 ## Project Tasks and Timeline:
 
-#### Project Milestones: ![Project Milestones](https://github.com/AIconic5001/Kalliope/blob/main/Milestone.md)
-#### Project Task List: ![Project Task List](https://github.com/AIconic5001/Kalliope/blob/main/Tasklist.md)
+#### Project Milestones: [Project Milestones](https://github.com/AIconic5001/Kalliope/blob/main/Milestone.md)
+#### Project Task List: [Project Task List](https://github.com/AIconic5001/Kalliope/blob/main/Tasklist.md)
 #### Timeline:
 ![image](https://github.com/user-attachments/assets/50301752-5278-4712-b129-6ea2195330ce)
 #### Effort Matrix:
 ![image](https://github.com/user-attachments/assets/9e2318b8-aeab-4ca5-8fa3-1588d6a5b47a)
 
 ## ABET Concerns Essay
+
+[ABET Concerns Essay](https://github.com/AIconic5001/Kalliope/blob/main/Project%20Documents/ABET%20Constraint%20Essay.md)
 
 ## PPT Slideshow
 
