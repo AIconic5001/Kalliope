@@ -93,7 +93,7 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 
 ## PPT Slideshow
 
-![PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/nguye2hq_mail_uc_edu/EUHoEqHK41ZIk16EAs0BTwgB2pEMuuSZK-uKy-IeAY8nQA?e=45omsX)
+[PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/nguye2hq_mail_uc_edu/EUHoEqHK41ZIk16EAs0BTwgB2pEMuuSZK-uKy-IeAY8nQA?e=45omsX)
 
 ## Self Assessment Essays
 
