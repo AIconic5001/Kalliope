@@ -13,6 +13,7 @@ Class of 2025
   -  [User Stories](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#design-diagrams)
   -  [Design Diagrams](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#user-stories-and-design-diagrams)
 - [Project Tasks and Timeline](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#project-tasks-and-timeline)
+  - [Project Milestones](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#project-milestones)
   - [Project Task List](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#project-task-list)
   - [Timeline](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#timeline)
   - [Effort Matrix](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#effort-matrix)
@@ -79,16 +80,25 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 
 ## Project Tasks and Timeline:
 
-#### Project Task List
-#### Timeline
-#### Effort Matrix
-
+#### Project Milestones: ![Project Milestones](https://github.com/AIconic5001/Kalliope/blob/main/Milestone.md)
+#### Project Task List: ![Project Task List](https://github.com/AIconic5001/Kalliope/blob/main/Tasklist.md)
+#### Timeline:
+![image](https://github.com/user-attachments/assets/50301752-5278-4712-b129-6ea2195330ce)
+#### Effort Matrix:
+![image](https://github.com/user-attachments/assets/9e2318b8-aeab-4ca5-8fa3-1588d6a5b47a)
 
 ## ABET Concerns Essay
 
 ## PPT Slideshow
 
+![PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/nguye2hq_mail_uc_edu/EUHoEqHK41ZIk16EAs0BTwgB2pEMuuSZK-uKy-IeAY8nQA?e=45omsX)
+
 ## Self Assessment Essays
+
+- Huu Quang Nhat Nguyen:
+- Du Quang Nguyen: 
+- Huy Phong Le:
+- Nhat Minh Phan:
 
 ## Professional Biographies
 - Huu Quang Nhat Nguyen:
