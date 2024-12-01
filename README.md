@@ -80,8 +80,8 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 
 ## Project Tasks and Timeline:
 
-#### Project Milestones: [Project Milestones](https://github.com/AIconic5001/Kalliope/blob/main/Milestone.md)
-#### Project Task List: [Project Task List](https://github.com/AIconic5001/Kalliope/blob/main/Tasklist.md)
+#### [Project Milestones](https://github.com/AIconic5001/Kalliope/blob/main/Milestone.md)
+#### [Project Task List](https://github.com/AIconic5001/Kalliope/blob/main/Tasklist.md)
 #### Timeline:
 ![image](https://github.com/user-attachments/assets/50301752-5278-4712-b129-6ea2195330ce)
 #### Effort Matrix:
