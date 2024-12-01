@@ -108,9 +108,21 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 - [Huy Phong Le](https://github.com/Huy-Le2/Professional-Biography/blob/main/huy-le-self-assessment-essay.md)
 - Nhat Minh Phan:
 
-## Budget:
+## Budget
+Current Expenses
+As of now, the project has not incurred any costs, either in the form of contributions or direct expenses. All testing, research, and programming have been conducted using the team's personal equipment, resources, and collective expertise.
 
-## Appendix:
+Anticipated Costs
+In the future, we foresee potential expenses that may include:
+
+- Cloud services or data storage fees
+- Website hosting and operational costs
+- Indirect expenses, such as electricity and energy usage
+- Costs associated with acquiring resources, training datasets, and testing materials
+
+Our team is committed to maintaining an ethical approach by minimizing costs while ensuring the project meets its goals and requirements. A detailed budget plan will be developed as and when expenses become necessary.
+
+## Appendix
 
 
 
