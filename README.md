@@ -39,7 +39,7 @@ Kalliope aims to revolutionize the academic research landscape by providing an i
 | Huu Quang Nhat Nguyen | nguye2hq@mail.uc.edu |
 | Du Nguyen | nguye2d6@mail.uc.edu |
 | Huy Le    | leh8@mail.uc.edu |
-| Nhat Phan     | mr.phanminhnhat@gmail.com   |
+| Nhat Phan     | phann3@mail.uc.edu   |
 
 ## Project Description
 
