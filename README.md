@@ -95,17 +95,17 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 
 [PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/nguye2hq_mail_uc_edu/EUHoEqHK41ZIk16EAs0BTwgB2pEMuuSZK-uKy-IeAY8nQA?e=45omsX)
 
-## Self Assessment Essays
+## Self-Assessment Essays
 
 - [Huu Quang Nhat Nguyen](https://github.com/AIconic5001/Kalliope/blob/main/Project%20Documents/huuquangnhat_nguyen_self-assessment.md)
-- Du Quang Nguyen: 
-- Huy Phong Le:
+- [Du Quang Nguyen](https://github.com/AIconic5001/Kalliope/blob/main/Project%20Documents/du_nguyen_self-assessment.md)
+- [Huy Phong Le](https://github.com/Huy-Le2/Professional-Biography/blob/main/huy-le-self-assessment-essay.md)
 - [Nhat Minh Phan](https://github.com/nhatphan244/Kalliope/blob/main/Assignments/nhat-phan-self-assessment-essay.md)
 
 ## Professional Biographies
 - [Huu Quang Nhat Nguyen](https://github.com/AIconic5001/Kalliope/blob/main/Project%20Documents/huuquangnhat_nguyen_professional_biography.md)
-- Du Quang Nguyen: 
-- [Huy Phong Le](https://github.com/Huy-Le2/Professional-Biography/blob/main/huy-le-self-assessment-essay.md)
+- [Du Quang Nguyen](https://github.com/AIconic5001/Kalliope/blob/main/Project%20Documents/dunguyen_professionalbiography.md)
+- [Huy Phong Le]
 - [Nhat Minh Phan](https://github.com/nhatphan244/Kalliope/blob/6f53f8dc4232dd74a71aca0ce334e9ed44d425cd/Assignments/Professional%20Biography%20Nhat%20Phan.md)
 
 ## Budget
