@@ -123,6 +123,26 @@ In the future, we foresee potential expenses that may include:
 Our team is committed to maintaining an ethical approach by minimizing costs while ensuring the project meets its goals and requirements. A detailed budget plan will be developed as and when expenses become necessary.
 
 ## Appendix
-
-
-
+All code, documentation, and updates related to the project can be accessed through the GitHub repository:
+[AIconic - Kalliope](https://github.com/AIconic5001/Kalliope)
+1. Huu Quang Nhat Nguyen (Team Leader)
+Contributions:
+- Led overall project planning and timeline creation.
+- Implemented core logic for reading and processing user-uploaded research papers.
+- Developed functionality for research paper synopsis and related paper recommendations.
+- Coordinated GitHub version control and ensured pull request reviews.
+- Designed the front end interface of our application.
+2. Huy Le
+- Focused on the development of the AI-powered recommendation feature.
+- Designed and trained machine learning models to suggest related papers based on user-uploaded content.
+- Optimized recommendation algorithms to enhance accuracy and performance.
+3. Du Nguyen
+- Developed and refined visualization features for references and recommendations.
+- Developed the script to effectively extract the references section of a document
+- Used Svelte and Chart.js to create interactive visualizations of related papers and citations.
+- Collaborated with other team members to ensure integration of visual components with backend data.
+4. Nhat Phan
+- Worked on data engineering tasks, including data preprocessing and transformation pipelines.
+- Designed and set up databases to store user data, research papers, and reference mappings.
+- Implemented APIs to interact with the database and handle user collaboration requests.
+- Developed a script to effectively collect data and perform automate requests.
