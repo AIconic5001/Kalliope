@@ -19,6 +19,7 @@ Class of 2025
   - [Effort Matrix](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#effort-matrix)
 - [ABET Concerns Essay](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#abet-concern-essay)
 - [Presentations](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#ppt-slideshow)
+- [Final Expo Poster](https://www.canva.com/design/DAGgWZcU2Bo/943eJw1j-7LEuDpDFtd0wQ/edit)
 - [Self-Assessments Essays](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#self-assessment-essays)
 - [Professional Biographies](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#professional-biographies)
 - [Budget](https://github.com/AIconic5001/Kalliope?tab=readme-ov-file#budget)
@@ -94,6 +95,9 @@ The Kalliope project aims to transform academic research through an AI-driven pl
 ## PPT Slideshow
 
 [PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/nguye2hq_mail_uc_edu/EUHoEqHK41ZIk16EAs0BTwgB2pEMuuSZK-uKy-IeAY8nQA?e=45omsX)
+
+## Final Expo Poster
+[Final Expo Poster](https://www.canva.com/design/DAGgWZcU2Bo/943eJw1j-7LEuDpDFtd0wQ/edit)
 
 ## Self-Assessment Essays
 
